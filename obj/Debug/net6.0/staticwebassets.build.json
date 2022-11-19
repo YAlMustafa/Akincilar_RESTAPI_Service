@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Wy3ckNMhPnLNHdqd2ADQjGMQFV8272GTHs4cs3qw2I=",
+  "Source": "GroundStationService",
+  "BasePath": "_content/GroundStationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
